@@ -1,4 +1,5 @@
 import React from "react";
+import "./Table.css";
 
 function Table(props) {
     return (
@@ -6,7 +7,7 @@ function Table(props) {
         <thead>
             <tr>
             <th scope="col">Picture</th>
-            <th value="name.first" scope="col" onClick={props.colOrder}>Name</th>
+            <th value="name.first" scope="col" className="sort" onClick={props.colOrder}>Name</th>
             <th value="phone" scope="col" onClick={props.colOrder}>Phone</th>
             <th value="email" scope="col" onClick={props.colOrder}>Email</th>
             <th value="dob" scope="col" onClick={props.colOrder}>DOB</th>
