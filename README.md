@@ -39,7 +39,7 @@ To further this project, I would like to add some more functionality to the tabl
 
 ## Links
 
-<!-- - [See it live]() -->
+- [See it live](https://ncmarsh.github.io/react_employee_directory/)
 - [Project Repository](https://github.com/ncmarsh/react_employee_directory)
 
 ## Contact
