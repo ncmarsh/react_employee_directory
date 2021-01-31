@@ -2,8 +2,9 @@ import React from "react";
 
 const styles = {
     jumbotron: {
-        marginBottom: "5px",
-        textAlign: "center"
+        marginBottom: "0px",
+        textAlign: "center",
+        backgroundColor: "#6593F5"
     }
 }
 
