@@ -5,7 +5,10 @@ const styles = {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        marginBottom: "5px",
+        marginBottom: "0px",
+        backgroundColor: "#cccccc",
+        paddingTop: "5px",
+        paddingBottom: "5px"
     }
 }
 
