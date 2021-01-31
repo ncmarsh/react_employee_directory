@@ -6,10 +6,10 @@ function Table(props) {
         <thead>
             <tr>
             <th scope="col">Picture</th>
-            <th scope="col">Name</th>
-            <th scope="col">Phone</th>
-            <th scope="col">Email</th>
-            <th scope="col">DOB</th>
+            <th value="name.first" scope="col" onClick={props.colOrder}>Name</th>
+            <th value="phone" scope="col" onClick={props.colOrder}>Phone</th>
+            <th value="email" scope="col" onClick={props.colOrder}>Email</th>
+            <th value="dob" scope="col" onClick={props.colOrder}>DOB</th>
             </tr>
         </thead>
         <tbody>
