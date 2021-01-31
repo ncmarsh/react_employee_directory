@@ -6,14 +6,14 @@ function Employee(props) {
             <th scope="row">
                 <img alt={props.name} className="img-fluid" src={props.image} />
             </th>
-            <td>{props.name}</td>
-            <td>{props.phone}</td>
-            <td>
+            <td className="align-middle">{props.name}</td>
+            <td className="align-middle">{props.phone}</td>
+            <td className="align-middle">
                 <a href={`mailto:${props.email}`}>
                     {props.email}
                 </a>   
             </td>
-            <td>{props.dob}</td>
+            <td className="align-middle">{props.dob}</td>
         </tr>
     )
 }
