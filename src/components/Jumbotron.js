@@ -12,7 +12,7 @@ function Jumbotron() {
         <div className="jumbotron jumbotron-fluid" style={styles.jumbotron}>
             <div className="container">
                 <h1 className="display-4">Employee Directory</h1>
-                <p className="lead">Click on the column heading to filter or use the search bar to narrow your results.</p>
+                <p className="lead">Click on the Name column heading to filter by first name or use the search bar to narrow your results.</p>
             </div>
         </div>
     )
