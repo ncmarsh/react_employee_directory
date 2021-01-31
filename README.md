@@ -5,6 +5,8 @@
 
 Easily sort and search your employee directory using this React application!
 
+![Main page](./demo/screenshot.png)
+
 ## Table of Contents
 
 1. [Usage](#Usage)
@@ -29,7 +31,7 @@ View your entire employee directory to easily access your employees' contact inf
 
 ## Demo
 
-
+![Demo](./demo/demo.gif)
 
 ## Roadmap
 
@@ -37,7 +39,7 @@ To further this project, I would like to add some more functionality to the tabl
 
 ## Links
 
-- [See it live]()
+<!-- - [See it live]() -->
 - [Project Repository](https://github.com/ncmarsh/react_employee_directory)
 
 ## Contact
